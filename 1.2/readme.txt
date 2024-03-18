@@ -1,4 +1,4 @@
-in this section we learned how to create a program that goes from fahrenheit to celsius, this involves using control structures, variables, integers/floating numbers and more.
+In this section we learned how to create a program that goes from fahrenheit to celsius, this involves using control structures, variables, integers/floating numbers and more.
 
 exercies:
 
